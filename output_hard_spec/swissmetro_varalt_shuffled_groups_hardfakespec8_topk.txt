@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC x ga_1	-2.729	7.448
+TRAIN_CO_1	-1.685	2.840
+TRAIN_ASC_1	-1.269	1.611
+TRAIN_TT_1	-1.058	1.120
+TRAIN_CO x who_1	-0.338	0.057
+TRAIN_CO x who_2	0.101	0.057
+TRAIN_CO x who_3	0.199	0.057
+TRAIN_CO x income_1	0.010	0.001
+TRAIN_CO x income_2	0.043	0.001
+TRAIN_CO x income_3	0.023	0.001
+TRAIN_CO x income_4	-0.014	0.001
+TRAIN_TT x purpose_1	0.000	0.000
+TRAIN_TT x purpose_2	0.000	0.000
+TRAIN_TT x purpose_3	-0.000	0.000
+TRAIN_TT x purpose_4	-0.000	0.000
+TRAIN_TT x purpose_5	0.001	0.000
+TRAIN_TT x purpose_6	0.001	0.000
+TRAIN_TT x purpose_7	-0.000	0.000
+TRAIN_TT x purpose_8	-0.000	0.000
+logt(TRAIN_HE)_1	-0.000	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+SM_ASC x ga_1	-2.192	4.805
+SM_CO_1	-1.302	1.695
+SM_TT_1	-0.748	0.559
+SM_ASC_1	0.579	0.336
+SM_CO x who_1	-0.071	0.025
+SM_CO x who_2	-0.205	0.025
+SM_CO x who_3	0.164	0.025
+segt(SM_TT,8)_1	0.000	0.000
+segt(SM_TT,8)_2	-0.000	0.000
+segt(SM_TT,8)_3	-0.001	0.000
+segt(SM_TT,8)_4	0.001	0.000
+segt(SM_TT,8)_5	-0.000	0.000
+segt(SM_TT,8)_6	-0.000	0.000
+segt(SM_TT,8)_7	-0.000	0.000
+SM_HE x luggage_1	0.000	0.000
+SM_HE x luggage_2	-0.000	0.000
+logt(SM_HE) x luggage_1	0.000	0.000
+logt(SM_HE) x luggage_2	-0.000	0.000
+SM_HE x ga_1	0.000	0.000
+SM_CO x purpose_1	0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_TT_1	-0.909	0.828
+CAR_CO_1	-0.131	0.018
+segt(CAR_CO,4)_1	-0.004	0.000
+segt(CAR_CO,4)_2	0.001	0.000
+segt(CAR_CO,4)_3	-0.004	0.000
+CAR_CO x purpose_1	0.002	0.000
+CAR_CO x purpose_2	-0.003	0.000
+CAR_CO x purpose_3	-0.003	0.000
+CAR_CO x purpose_4	0.004	0.000
+CAR_CO x purpose_5	-0.001	0.000
+CAR_CO x purpose_6	-0.001	0.000
+CAR_CO x purpose_7	0.000	0.000
+CAR_CO x purpose_8	0.004	0.000
+boxt(CAR_CO) x purpose_1	0.001	0.000
+boxt(CAR_CO) x purpose_2	-0.001	0.000
+boxt(CAR_CO) x purpose_3	-0.001	0.000
+boxt(CAR_CO) x purpose_4	0.001	0.000
+boxt(CAR_CO) x purpose_5	-0.001	0.000
+boxt(CAR_CO) x purpose_6	-0.001	0.000
+boxt(CAR_CO) x purpose_7	0.000	0.000

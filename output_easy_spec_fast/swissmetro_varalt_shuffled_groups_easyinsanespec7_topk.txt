@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.421	2.021
+logt(TRAIN_TT) x ga_1	-1.094	1.197
+logt(TRAIN_TT)_1	-0.861	0.743
+TRAIN_CO_1	-0.466	0.217
+logt(TRAIN_HE) x purpose_1	-0.002	0.000
+logt(TRAIN_HE) x purpose_2	-0.001	0.000
+logt(TRAIN_HE) x purpose_3	0.002	0.000
+logt(TRAIN_HE) x purpose_4	-0.001	0.000
+logt(TRAIN_HE) x purpose_5	0.000	0.000
+logt(TRAIN_HE) x purpose_6	0.000	0.000
+logt(TRAIN_HE) x purpose_7	0.002	0.000
+logt(TRAIN_HE) x purpose_8	-0.002	0.000
+logt(TRAIN_HE) x purpose_9	-0.000	0.000
+logt(TRAIN_HE) x purpose_10	-0.005	0.000
+logt(TRAIN_HE) x purpose_11	0.001	0.000
+logt(TRAIN_HE) x purpose_12	-0.000	0.000
+logt(TRAIN_HE) x purpose_13	0.002	0.000
+logt(TRAIN_HE) x purpose_14	0.000	0.000
+logt(TRAIN_HE) x purpose_15	0.002	0.000
+logt(TRAIN_HE) x purpose_16	-0.003	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+logt(SM_TT)_1	-0.843	0.712
+SM_ASC_1	0.397	0.158
+logt(SM_HE) x purpose_1	-0.001	0.000
+logt(SM_HE) x purpose_2	0.000	0.000
+logt(SM_HE) x purpose_3	0.000	0.000
+logt(SM_HE) x purpose_4	-0.000	0.000
+logt(SM_HE) x purpose_5	0.000	0.000
+logt(SM_HE) x purpose_6	-0.001	0.000
+logt(SM_HE) x purpose_7	-0.000	0.000
+logt(SM_HE) x purpose_8	0.001	0.000
+logt(SM_HE) x purpose_9	-0.001	0.000
+logt(SM_HE) x purpose_10	0.003	0.000
+logt(SM_HE) x purpose_11	-0.000	0.000
+logt(SM_HE) x purpose_12	0.000	0.000
+logt(SM_HE) x purpose_13	-0.000	0.000
+logt(SM_HE) x purpose_14	-0.001	0.000
+logt(SM_HE) x purpose_15	0.000	0.000
+logt(SM_HE) x purpose_16	0.002	0.000
+logt(SM_HE) x purpose_17	-0.000	0.000
+logt(SM_HE) x purpose_18	-0.001	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_TT_1	-0.936	0.878
+CAR_CO_1	-0.094	0.010
+CAR_TT x age_1	0.000	0.000
+CAR_TT x age_2	-0.001	0.000
+CAR_TT x age_3	-0.000	0.000
+CAR_TT x age_4	0.002	0.000
+logt(CAR_CO) x purpose_1	0.001	0.000
+logt(CAR_CO) x purpose_2	-0.000	0.000
+logt(CAR_CO) x purpose_3	-0.001	0.000
+logt(CAR_CO) x purpose_4	0.000	0.000
+logt(CAR_CO) x purpose_5	0.000	0.000
+logt(CAR_CO) x purpose_6	0.000	0.000
+logt(CAR_CO) x purpose_7	-0.000	0.000
+logt(CAR_CO) x purpose_8	0.000	0.000
+logt(CAR_CO) x purpose_9	-0.001	0.000
+logt(CAR_CO) x purpose_10	0.001	0.000
+logt(CAR_CO) x purpose_11	-0.001	0.000
+logt(CAR_CO) x purpose_12	-0.000	0.000
+logt(CAR_CO) x purpose_13	0.000	0.000
+logt(CAR_CO) x purpose_14	-0.000	0.000

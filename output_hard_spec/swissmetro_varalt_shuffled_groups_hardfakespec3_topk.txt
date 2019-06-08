@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.612	2.599
+TRAIN_CO x ga_1	-0.846	0.717
+TRAIN_TT_1	-0.656	0.432
+TRAIN_TT x age_1	0.026	0.364
+TRAIN_TT x age_2	-0.602	0.364
+TRAIN_TT x age_3	-0.944	0.364
+TRAIN_TT x age_4	-0.445	0.364
+TRAIN_CO_1	0.440	0.194
+TRAIN_HE_1	-0.236	0.057
+TRAIN_ASC x who_1	0.039	0.002
+TRAIN_ASC x who_2	0.010	0.002
+TRAIN_ASC x who_3	-0.045	0.002
+TRAIN_CO x income_1	0.002	0.000
+TRAIN_CO x income_2	0.011	0.000
+TRAIN_CO x income_3	0.018	0.000
+TRAIN_CO x income_4	-0.010	0.000
+TRAIN_CO x who_1	-0.001	0.000
+TRAIN_CO x who_2	-0.008	0.000
+TRAIN_CO x who_3	0.012	0.000
+logt(TRAIN_TT) x purpose_1	0.001	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+SM_TT_1	-0.771	0.594
+SM_CO x ga_1	-0.690	0.477
+SM_ASC_1	0.356	0.127
+SM_CO_1	0.129	0.017
+logt(SM_HE)_1	-0.055	0.003
+SM_HE x income_1	-0.000	0.000
+SM_HE x income_2	-0.000	0.000
+SM_HE x income_3	-0.000	0.000
+SM_HE x income_4	0.000	0.000
+logt(SM_HE) x income_1	-0.000	0.000
+logt(SM_HE) x income_2	-0.000	0.000
+logt(SM_HE) x income_3	-0.000	0.000
+logt(SM_HE) x income_4	0.000	0.000
+SM_TT x purpose_1	-0.000	0.000
+SM_TT x purpose_2	0.000	0.000
+SM_TT x purpose_3	-0.000	0.000
+SM_TT x purpose_4	0.000	0.000
+SM_TT x purpose_5	0.000	0.000
+SM_TT x purpose_6	0.000	0.000
+SM_TT x purpose_7	-0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_TT_1	-0.667	0.446
+CAR_CO_1	-0.326	0.107
+CAR_TT x age_1	-0.018	0.074
+CAR_TT x age_2	-0.336	0.074
+CAR_TT x age_3	-0.365	0.074
+CAR_TT x age_4	-0.209	0.074
+CAR_CO x who_1	0.004	0.001
+CAR_CO x who_2	0.032	0.001
+CAR_CO x who_3	-0.022	0.001
+CAR_TT x purpose_1	0.000	0.000
+CAR_TT x purpose_2	-0.000	0.000
+CAR_TT x purpose_3	-0.000	0.000
+CAR_TT x purpose_4	0.000	0.000
+CAR_TT x purpose_5	-0.000	0.000
+CAR_TT x purpose_6	-0.000	0.000
+CAR_TT x purpose_7	-0.000	0.000
+CAR_TT x purpose_8	0.000	0.000
+boxt(CAR_CO) x purpose_1	0.000	0.000
+boxt(CAR_CO) x purpose_2	-0.000	0.000
+boxt(CAR_CO) x purpose_3	-0.000	0.000

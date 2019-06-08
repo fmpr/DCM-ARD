@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Theta
+TRAIN_ASC x age_2	5.496	
+TRAIN_ASC x age_4	3.645	
+TRAIN_ASC x age_1	3.438	
+logt(TRAIN_CO) x purpose_3	3.382	
+logt(TRAIN_CO) x purpose_4	3.012	
+TRAIN_ASC x age_3	2.917	
+logt(TRAIN_HE)_1	2.869	
+logt(TRAIN_CO) x purpose_1	2.688	
+logt(TRAIN_CO) x purpose_2	2.632	
+logt(TRAIN_HE) x ga_1	1.921	
+TRAIN_TT x age_2	1.901	
+TRAIN_HE x purpose_3	1.459	
+TRAIN_HE x age_3	1.280	
+TRAIN_TT x age_4	1.271	
+logt(TRAIN_TT) x purpose_1	1.271	
+logt(TRAIN_CO) x purpose_5	1.161	
+logt(TRAIN_CO) x age_3	1.079	
+TRAIN_HE x age_2	1.043	
+TRAIN_HE x purpose_4	1.007	
+logt(TRAIN_TT) x purpose_2	0.969	
+
+Top 20 features for alternative SM:
+Feature		Theta
+SM_CO x purpose_8	4.759	
+SM_ASC x purpose_7	3.929	
+SM_HE x purpose_3	3.456	
+SM_TT_1	3.116	
+logt(SM_HE) x age_4	2.763	
+logt(SM_CO) x purpose_8	2.649	
+SM_HE x purpose_4	2.538	
+SM_HE x purpose_1	2.365	
+SM_ASC x purpose_8	2.344	
+logt(SM_CO) x purpose_4	2.018	
+logt(SM_CO) x purpose_3	1.990	
+logt(SM_HE) x age_1	1.872	
+logt(SM_HE) x age_2	1.780	
+SM_HE x purpose_2	1.697	
+logt(SM_CO) x purpose_1	1.628	
+logt(SM_CO) x purpose_2	1.528	
+logt(SM_HE) x age_3	1.424	
+logt(SM_HE) x purpose_8	1.363	
+logt(SM_TT) x ga_1	0.943	
+SM_HE x purpose_5	0.905	
+
+Top 20 features for alternative CAR:
+Feature		Theta
+CAR_CO_1	6.413	
+logt(CAR_CO)_1	6.398	
+CAR_TT x purpose_8	2.102	
+CAR_CO x purpose_8	1.902	
+logt(CAR_TT) x purpose_4	1.397	
+logt(CAR_TT) x purpose_1	1.297	
+logt(CAR_CO) x age_3	1.225	
+CAR_TT x age_2	1.183	
+CAR_TT x age_3	1.164	
+logt(CAR_CO) x age_2	1.094	
+logt(CAR_CO) x age_1	1.006	
+logt(CAR_TT) x purpose_3	0.914	
+CAR_TT x age_4	0.655	
+logt(CAR_TT) x purpose_2	0.583	
+CAR_TT x purpose_6	0.540	
+logt(CAR_TT)_1	0.466	
+logt(CAR_CO) x age_4	0.420	
+CAR_TT x age_1	0.318	
+CAR_CO x ga_1	0.274	
+logt(CAR_TT) x purpose_7	0.055	

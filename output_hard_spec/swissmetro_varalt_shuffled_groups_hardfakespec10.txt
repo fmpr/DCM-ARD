@@ -1,0 +1,602 @@
+TRAIN_ASC_1	-1.489	2.218
+TRAIN_ASC x ga_1	-0.000	0.000
+TRAIN_ASC x age_1	0.000	0.000
+TRAIN_ASC x age_2	0.000	0.000
+TRAIN_ASC x age_3	-0.000	0.000
+TRAIN_ASC x age_4	0.000	0.000
+TRAIN_ASC x purpose_1	-0.000	0.000
+TRAIN_ASC x purpose_2	-0.000	0.000
+TRAIN_ASC x purpose_3	0.000	0.000
+TRAIN_ASC x purpose_4	-0.000	0.000
+TRAIN_ASC x purpose_5	0.001	0.000
+TRAIN_ASC x purpose_6	0.000	0.000
+TRAIN_ASC x purpose_7	0.000	0.000
+TRAIN_ASC x purpose_8	-0.000	0.000
+TRAIN_ASC x who_1	0.000	0.000
+TRAIN_ASC x who_2	0.000	0.000
+TRAIN_ASC x who_3	-0.000	0.000
+TRAIN_ASC x luggage_1	-0.000	0.000
+TRAIN_ASC x luggage_2	0.000	0.000
+TRAIN_ASC x income_1	0.000	0.000
+TRAIN_ASC x income_2	-0.000	0.000
+TRAIN_ASC x income_3	0.000	0.000
+TRAIN_ASC x income_4	-0.000	0.000
+TRAIN_TT_1	0.000	0.000
+TRAIN_TT x ga_1	-0.000	0.000
+TRAIN_TT x age_1	0.000	0.000
+TRAIN_TT x age_2	0.000	0.000
+TRAIN_TT x age_3	-0.000	0.000
+TRAIN_TT x age_4	0.000	0.000
+TRAIN_TT x purpose_1	0.001	0.000
+TRAIN_TT x purpose_2	0.000	0.000
+TRAIN_TT x purpose_3	-0.000	0.000
+TRAIN_TT x purpose_4	-0.001	0.000
+TRAIN_TT x purpose_5	0.004	0.000
+TRAIN_TT x purpose_6	0.002	0.000
+TRAIN_TT x purpose_7	0.001	0.000
+TRAIN_TT x purpose_8	-0.002	0.000
+TRAIN_TT x who_1	0.000	0.000
+TRAIN_TT x who_2	0.004	0.000
+TRAIN_TT x who_3	-0.015	0.000
+TRAIN_TT x luggage_1	-0.000	0.000
+TRAIN_TT x luggage_2	0.000	0.000
+TRAIN_TT x income_1	0.000	0.000
+TRAIN_TT x income_2	-0.000	0.000
+TRAIN_TT x income_3	0.000	0.000
+TRAIN_TT x income_4	-0.000	0.000
+segt(TRAIN_TT,4)_1	-0.000	0.000
+segt(TRAIN_TT,4)_2	-0.000	0.000
+segt(TRAIN_TT,4)_3	-0.000	0.000
+segt(TRAIN_TT,8)_1	-0.000	0.000
+segt(TRAIN_TT,8)_2	0.000	0.000
+segt(TRAIN_TT,8)_3	0.000	0.000
+segt(TRAIN_TT,8)_4	-0.000	0.000
+segt(TRAIN_TT,8)_5	0.000	0.000
+segt(TRAIN_TT,8)_6	-0.000	0.000
+segt(TRAIN_TT,8)_7	0.000	0.000
+logt(TRAIN_TT)_1	-1.146	1.314
+logt(TRAIN_TT) x ga_1	-0.000	0.000
+logt(TRAIN_TT) x age_1	0.000	0.000
+logt(TRAIN_TT) x age_2	0.000	0.000
+logt(TRAIN_TT) x age_3	-0.000	0.000
+logt(TRAIN_TT) x age_4	0.000	0.000
+logt(TRAIN_TT) x purpose_1	-0.000	0.000
+logt(TRAIN_TT) x purpose_2	-0.000	0.000
+logt(TRAIN_TT) x purpose_3	0.000	0.000
+logt(TRAIN_TT) x purpose_4	-0.000	0.000
+logt(TRAIN_TT) x purpose_5	0.001	0.000
+logt(TRAIN_TT) x purpose_6	0.000	0.000
+logt(TRAIN_TT) x purpose_7	0.000	0.000
+logt(TRAIN_TT) x purpose_8	-0.000	0.000
+logt(TRAIN_TT) x who_1	0.000	0.000
+logt(TRAIN_TT) x who_2	0.000	0.000
+logt(TRAIN_TT) x who_3	-0.000	0.000
+logt(TRAIN_TT) x luggage_1	-0.000	0.000
+logt(TRAIN_TT) x luggage_2	0.000	0.000
+logt(TRAIN_TT) x income_1	0.000	0.000
+logt(TRAIN_TT) x income_2	-0.000	0.000
+logt(TRAIN_TT) x income_3	0.000	0.000
+logt(TRAIN_TT) x income_4	-0.000	0.000
+boxt(TRAIN_TT)_1	-0.000	0.000
+boxt(TRAIN_TT) x ga_1	-0.000	0.000
+boxt(TRAIN_TT) x age_1	0.000	0.000
+boxt(TRAIN_TT) x age_2	0.000	0.000
+boxt(TRAIN_TT) x age_3	-0.000	0.000
+boxt(TRAIN_TT) x age_4	0.000	0.000
+boxt(TRAIN_TT) x purpose_1	-0.000	0.000
+boxt(TRAIN_TT) x purpose_2	-0.000	0.000
+boxt(TRAIN_TT) x purpose_3	0.000	0.000
+boxt(TRAIN_TT) x purpose_4	-0.000	0.000
+boxt(TRAIN_TT) x purpose_5	0.000	0.000
+boxt(TRAIN_TT) x purpose_6	0.000	0.000
+boxt(TRAIN_TT) x purpose_7	0.000	0.000
+boxt(TRAIN_TT) x purpose_8	-0.000	0.000
+boxt(TRAIN_TT) x who_1	0.000	0.000
+boxt(TRAIN_TT) x who_2	0.000	0.000
+boxt(TRAIN_TT) x who_3	-0.001	0.000
+boxt(TRAIN_TT) x luggage_1	-0.000	0.000
+boxt(TRAIN_TT) x luggage_2	0.000	0.000
+boxt(TRAIN_TT) x income_1	0.000	0.000
+boxt(TRAIN_TT) x income_2	-0.000	0.000
+boxt(TRAIN_TT) x income_3	0.000	0.000
+boxt(TRAIN_TT) x income_4	-0.000	0.000
+TRAIN_CO_1	0.448	0.201
+TRAIN_CO x ga_1	-0.000	0.000
+TRAIN_CO x age_1	0.001	0.000
+TRAIN_CO x age_2	0.003	0.000
+TRAIN_CO x age_3	-0.004	0.000
+TRAIN_CO x age_4	0.002	0.000
+TRAIN_CO x purpose_1	-0.000	0.000
+TRAIN_CO x purpose_2	-0.000	0.000
+TRAIN_CO x purpose_3	0.000	0.000
+TRAIN_CO x purpose_4	0.000	0.000
+TRAIN_CO x purpose_5	0.000	0.000
+TRAIN_CO x purpose_6	0.000	0.000
+TRAIN_CO x purpose_7	0.001	0.000
+TRAIN_CO x purpose_8	-0.000	0.000
+TRAIN_CO x who_1	-0.238	0.042
+TRAIN_CO x who_2	0.255	0.042
+TRAIN_CO x who_3	0.011	0.042
+TRAIN_CO x luggage_1	0.000	0.000
+TRAIN_CO x luggage_2	-0.000	0.000
+TRAIN_CO x income_1	0.000	0.000
+TRAIN_CO x income_2	0.000	0.000
+TRAIN_CO x income_3	0.000	0.000
+TRAIN_CO x income_4	-0.000	0.000
+segt(TRAIN_CO,4)_1	-0.000	0.000
+segt(TRAIN_CO,4)_2	0.000	0.000
+segt(TRAIN_CO,4)_3	-0.000	0.000
+segt(TRAIN_CO,8)_1	-0.000	0.000
+segt(TRAIN_CO,8)_2	-0.000	0.000
+segt(TRAIN_CO,8)_3	0.000	0.000
+segt(TRAIN_CO,8)_4	0.000	0.000
+segt(TRAIN_CO,8)_5	0.000	0.000
+segt(TRAIN_CO,8)_6	-0.000	0.000
+segt(TRAIN_CO,8)_7	0.000	0.000
+logt(TRAIN_CO)_1	0.000	0.000
+logt(TRAIN_CO) x ga_1	-0.000	0.000
+logt(TRAIN_CO) x age_1	-0.000	0.000
+logt(TRAIN_CO) x age_2	0.000	0.000
+logt(TRAIN_CO) x age_3	-0.000	0.000
+logt(TRAIN_CO) x age_4	0.000	0.000
+logt(TRAIN_CO) x purpose_1	-0.000	0.000
+logt(TRAIN_CO) x purpose_2	-0.000	0.000
+logt(TRAIN_CO) x purpose_3	0.000	0.000
+logt(TRAIN_CO) x purpose_4	-0.000	0.000
+logt(TRAIN_CO) x purpose_5	0.000	0.000
+logt(TRAIN_CO) x purpose_6	0.000	0.000
+logt(TRAIN_CO) x purpose_7	0.000	0.000
+logt(TRAIN_CO) x purpose_8	-0.000	0.000
+logt(TRAIN_CO) x who_1	0.000	0.000
+logt(TRAIN_CO) x who_2	0.000	0.000
+logt(TRAIN_CO) x who_3	-0.000	0.000
+logt(TRAIN_CO) x luggage_1	-0.000	0.000
+logt(TRAIN_CO) x luggage_2	0.000	0.000
+logt(TRAIN_CO) x income_1	0.004	0.000
+logt(TRAIN_CO) x income_2	0.001	0.000
+logt(TRAIN_CO) x income_3	0.012	0.000
+logt(TRAIN_CO) x income_4	-0.007	0.000
+boxt(TRAIN_CO)_1	-0.000	0.000
+boxt(TRAIN_CO) x ga_1	-0.000	0.000
+boxt(TRAIN_CO) x age_1	-0.000	0.000
+boxt(TRAIN_CO) x age_2	0.000	0.000
+boxt(TRAIN_CO) x age_3	-0.000	0.000
+boxt(TRAIN_CO) x age_4	0.000	0.000
+boxt(TRAIN_CO) x purpose_1	-0.000	0.000
+boxt(TRAIN_CO) x purpose_2	-0.000	0.000
+boxt(TRAIN_CO) x purpose_3	0.000	0.000
+boxt(TRAIN_CO) x purpose_4	-0.000	0.000
+boxt(TRAIN_CO) x purpose_5	0.000	0.000
+boxt(TRAIN_CO) x purpose_6	0.000	0.000
+boxt(TRAIN_CO) x purpose_7	0.000	0.000
+boxt(TRAIN_CO) x purpose_8	-0.000	0.000
+boxt(TRAIN_CO) x who_1	0.000	0.000
+boxt(TRAIN_CO) x who_2	0.000	0.000
+boxt(TRAIN_CO) x who_3	-0.000	0.000
+boxt(TRAIN_CO) x luggage_1	-0.000	0.000
+boxt(TRAIN_CO) x luggage_2	0.000	0.000
+boxt(TRAIN_CO) x income_1	0.000	0.000
+boxt(TRAIN_CO) x income_2	-0.000	0.000
+boxt(TRAIN_CO) x income_3	0.000	0.000
+boxt(TRAIN_CO) x income_4	-0.000	0.000
+TRAIN_HE_1	0.000	0.000
+TRAIN_HE x ga_1	-0.000	0.000
+TRAIN_HE x age_1	0.000	0.000
+TRAIN_HE x age_2	0.000	0.000
+TRAIN_HE x age_3	-0.000	0.000
+TRAIN_HE x age_4	0.000	0.000
+TRAIN_HE x purpose_1	-0.001	0.000
+TRAIN_HE x purpose_2	0.000	0.000
+TRAIN_HE x purpose_3	0.001	0.000
+TRAIN_HE x purpose_4	-0.001	0.000
+TRAIN_HE x purpose_5	0.001	0.000
+TRAIN_HE x purpose_6	0.000	0.000
+TRAIN_HE x purpose_7	0.000	0.000
+TRAIN_HE x purpose_8	-0.000	0.000
+TRAIN_HE x who_1	0.000	0.000
+TRAIN_HE x who_2	0.000	0.000
+TRAIN_HE x who_3	-0.000	0.000
+TRAIN_HE x luggage_1	-0.000	0.000
+TRAIN_HE x luggage_2	0.000	0.000
+TRAIN_HE x income_1	0.000	0.000
+TRAIN_HE x income_2	0.000	0.000
+TRAIN_HE x income_3	0.000	0.000
+TRAIN_HE x income_4	-0.000	0.000
+logt(TRAIN_HE)_1	-0.000	0.000
+logt(TRAIN_HE) x ga_1	-0.000	0.000
+logt(TRAIN_HE) x age_1	0.000	0.000
+logt(TRAIN_HE) x age_2	0.000	0.000
+logt(TRAIN_HE) x age_3	-0.000	0.000
+logt(TRAIN_HE) x age_4	0.000	0.000
+logt(TRAIN_HE) x purpose_1	-0.000	0.000
+logt(TRAIN_HE) x purpose_2	-0.000	0.000
+logt(TRAIN_HE) x purpose_3	0.000	0.000
+logt(TRAIN_HE) x purpose_4	-0.000	0.000
+logt(TRAIN_HE) x purpose_5	0.000	0.000
+logt(TRAIN_HE) x purpose_6	0.000	0.000
+logt(TRAIN_HE) x purpose_7	0.000	0.000
+logt(TRAIN_HE) x purpose_8	-0.000	0.000
+logt(TRAIN_HE) x who_1	0.000	0.000
+logt(TRAIN_HE) x who_2	0.000	0.000
+logt(TRAIN_HE) x who_3	-0.000	0.000
+logt(TRAIN_HE) x luggage_1	-0.000	0.000
+logt(TRAIN_HE) x luggage_2	0.000	0.000
+logt(TRAIN_HE) x income_1	0.000	0.000
+logt(TRAIN_HE) x income_2	-0.000	0.000
+logt(TRAIN_HE) x income_3	0.000	0.000
+logt(TRAIN_HE) x income_4	-0.000	0.000
+SM_ASC_1	0.317	0.101
+SM_ASC x ga_1	0.000	0.000
+SM_ASC x age_1	-0.000	0.000
+SM_ASC x age_2	0.000	0.000
+SM_ASC x age_3	0.000	0.000
+SM_ASC x age_4	-0.000	0.000
+SM_ASC x purpose_1	-0.000	0.000
+SM_ASC x purpose_2	0.000	0.000
+SM_ASC x purpose_3	0.000	0.000
+SM_ASC x purpose_4	-0.000	0.000
+SM_ASC x purpose_5	-0.000	0.000
+SM_ASC x purpose_6	-0.000	0.000
+SM_ASC x purpose_7	0.000	0.000
+SM_ASC x purpose_8	0.000	0.000
+SM_ASC x who_1	-0.000	0.000
+SM_ASC x who_2	-0.000	0.000
+SM_ASC x who_3	0.000	0.000
+SM_ASC x luggage_1	-0.000	0.000
+SM_ASC x luggage_2	-0.000	0.000
+SM_ASC x income_1	-0.000	0.000
+SM_ASC x income_2	0.000	0.000
+SM_ASC x income_3	-0.000	0.000
+SM_ASC x income_4	0.000	0.000
+SM_TT_1	-0.000	0.000
+SM_TT x ga_1	-0.000	0.000
+SM_TT x age_1	0.000	0.000
+SM_TT x age_2	-0.000	0.000
+SM_TT x age_3	-0.000	0.000
+SM_TT x age_4	0.000	0.000
+SM_TT x purpose_1	-0.000	0.000
+SM_TT x purpose_2	0.000	0.000
+SM_TT x purpose_3	0.000	0.000
+SM_TT x purpose_4	-0.000	0.000
+SM_TT x purpose_5	-0.000	0.000
+SM_TT x purpose_6	-0.000	0.000
+SM_TT x purpose_7	0.000	0.000
+SM_TT x purpose_8	0.000	0.000
+SM_TT x who_1	-0.000	0.000
+SM_TT x who_2	-0.000	0.000
+SM_TT x who_3	0.000	0.000
+SM_TT x luggage_1	-0.000	0.000
+SM_TT x luggage_2	0.000	0.000
+SM_TT x income_1	-0.000	0.000
+SM_TT x income_2	0.000	0.000
+SM_TT x income_3	-0.000	0.000
+SM_TT x income_4	-0.000	0.000
+segt(SM_TT,4)_1	-0.000	0.000
+segt(SM_TT,4)_2	-0.000	0.000
+segt(SM_TT,4)_3	0.000	0.000
+segt(SM_TT,8)_1	0.000	0.000
+segt(SM_TT,8)_2	-0.000	0.000
+segt(SM_TT,8)_3	-0.000	0.000
+segt(SM_TT,8)_4	0.000	0.000
+segt(SM_TT,8)_5	-0.000	0.000
+segt(SM_TT,8)_6	0.000	0.000
+segt(SM_TT,8)_7	0.000	0.000
+logt(SM_TT)_1	0.000	0.000
+logt(SM_TT) x ga_1	0.000	0.000
+logt(SM_TT) x age_1	-0.000	0.000
+logt(SM_TT) x age_2	0.000	0.000
+logt(SM_TT) x age_3	0.000	0.000
+logt(SM_TT) x age_4	-0.000	0.000
+logt(SM_TT) x purpose_1	-0.000	0.000
+logt(SM_TT) x purpose_2	0.000	0.000
+logt(SM_TT) x purpose_3	0.000	0.000
+logt(SM_TT) x purpose_4	-0.000	0.000
+logt(SM_TT) x purpose_5	-0.000	0.000
+logt(SM_TT) x purpose_6	-0.000	0.000
+logt(SM_TT) x purpose_7	0.000	0.000
+logt(SM_TT) x purpose_8	0.000	0.000
+logt(SM_TT) x who_1	-0.000	0.000
+logt(SM_TT) x who_2	-0.000	0.000
+logt(SM_TT) x who_3	0.000	0.000
+logt(SM_TT) x luggage_1	-0.000	0.000
+logt(SM_TT) x luggage_2	-0.000	0.000
+logt(SM_TT) x income_1	-0.000	0.000
+logt(SM_TT) x income_2	0.000	0.000
+logt(SM_TT) x income_3	-0.000	0.000
+logt(SM_TT) x income_4	0.000	0.000
+boxt(SM_TT)_1	-0.793	0.629
+boxt(SM_TT) x ga_1	0.000	0.000
+boxt(SM_TT) x age_1	-0.000	0.000
+boxt(SM_TT) x age_2	0.000	0.000
+boxt(SM_TT) x age_3	0.000	0.000
+boxt(SM_TT) x age_4	-0.000	0.000
+boxt(SM_TT) x purpose_1	-0.000	0.000
+boxt(SM_TT) x purpose_2	0.000	0.000
+boxt(SM_TT) x purpose_3	0.000	0.000
+boxt(SM_TT) x purpose_4	-0.000	0.000
+boxt(SM_TT) x purpose_5	-0.000	0.000
+boxt(SM_TT) x purpose_6	-0.000	0.000
+boxt(SM_TT) x purpose_7	0.000	0.000
+boxt(SM_TT) x purpose_8	0.000	0.000
+boxt(SM_TT) x who_1	-0.000	0.000
+boxt(SM_TT) x who_2	-0.000	0.000
+boxt(SM_TT) x who_3	0.000	0.000
+boxt(SM_TT) x luggage_1	-0.000	0.000
+boxt(SM_TT) x luggage_2	-0.000	0.000
+boxt(SM_TT) x income_1	-0.000	0.000
+boxt(SM_TT) x income_2	0.000	0.000
+boxt(SM_TT) x income_3	-0.000	0.000
+boxt(SM_TT) x income_4	0.000	0.000
+SM_CO_1	0.096	0.010
+SM_CO x ga_1	-0.436	0.191
+SM_CO x age_1	-0.000	0.000
+SM_CO x age_2	-0.000	0.000
+SM_CO x age_3	0.000	0.000
+SM_CO x age_4	-0.000	0.000
+SM_CO x purpose_1	0.000	0.000
+SM_CO x purpose_2	0.000	0.000
+SM_CO x purpose_3	0.000	0.000
+SM_CO x purpose_4	-0.000	0.000
+SM_CO x purpose_5	0.000	0.000
+SM_CO x purpose_6	-0.000	0.000
+SM_CO x purpose_7	-0.000	0.000
+SM_CO x purpose_8	0.000	0.000
+SM_CO x who_1	-0.000	0.000
+SM_CO x who_2	0.000	0.000
+SM_CO x who_3	0.000	0.000
+SM_CO x luggage_1	-0.000	0.000
+SM_CO x luggage_2	0.000	0.000
+SM_CO x income_1	-0.000	0.000
+SM_CO x income_2	-0.000	0.000
+SM_CO x income_3	-0.000	0.000
+SM_CO x income_4	0.000	0.000
+logt(SM_CO)_1	-0.000	0.000
+logt(SM_CO) x ga_1	0.000	0.000
+logt(SM_CO) x age_1	-0.000	0.000
+logt(SM_CO) x age_2	-0.000	0.000
+logt(SM_CO) x age_3	0.000	0.000
+logt(SM_CO) x age_4	-0.000	0.000
+logt(SM_CO) x purpose_1	-0.000	0.000
+logt(SM_CO) x purpose_2	0.000	0.000
+logt(SM_CO) x purpose_3	0.000	0.000
+logt(SM_CO) x purpose_4	-0.000	0.000
+logt(SM_CO) x purpose_5	-0.000	0.000
+logt(SM_CO) x purpose_6	-0.000	0.000
+logt(SM_CO) x purpose_7	-0.000	0.000
+logt(SM_CO) x purpose_8	0.000	0.000
+logt(SM_CO) x who_1	-0.000	0.000
+logt(SM_CO) x who_2	-0.000	0.000
+logt(SM_CO) x who_3	0.000	0.000
+logt(SM_CO) x luggage_1	-0.000	0.000
+logt(SM_CO) x luggage_2	-0.000	0.000
+logt(SM_CO) x income_1	-0.000	0.000
+logt(SM_CO) x income_2	-0.000	0.000
+logt(SM_CO) x income_3	-0.000	0.000
+logt(SM_CO) x income_4	0.000	0.000
+boxt(SM_CO)_1	-0.000	0.000
+boxt(SM_CO) x ga_1	0.000	0.000
+boxt(SM_CO) x age_1	-0.000	0.000
+boxt(SM_CO) x age_2	-0.000	0.000
+boxt(SM_CO) x age_3	0.000	0.000
+boxt(SM_CO) x age_4	-0.000	0.000
+boxt(SM_CO) x purpose_1	-0.000	0.000
+boxt(SM_CO) x purpose_2	0.000	0.000
+boxt(SM_CO) x purpose_3	0.000	0.000
+boxt(SM_CO) x purpose_4	-0.000	0.000
+boxt(SM_CO) x purpose_5	-0.000	0.000
+boxt(SM_CO) x purpose_6	-0.000	0.000
+boxt(SM_CO) x purpose_7	0.000	0.000
+boxt(SM_CO) x purpose_8	0.000	0.000
+boxt(SM_CO) x who_1	-0.000	0.000
+boxt(SM_CO) x who_2	-0.000	0.000
+boxt(SM_CO) x who_3	0.000	0.000
+boxt(SM_CO) x luggage_1	-0.000	0.000
+boxt(SM_CO) x luggage_2	-0.000	0.000
+boxt(SM_CO) x income_1	-0.000	0.000
+boxt(SM_CO) x income_2	0.000	0.000
+boxt(SM_CO) x income_3	-0.000	0.000
+boxt(SM_CO) x income_4	0.000	0.000
+SM_HE_1	-0.182	0.034
+SM_HE x ga_1	0.000	0.000
+SM_HE x age_1	0.000	0.000
+SM_HE x age_2	-0.000	0.000
+SM_HE x age_3	0.000	0.000
+SM_HE x age_4	-0.000	0.000
+SM_HE x purpose_1	-0.000	0.000
+SM_HE x purpose_2	0.000	0.000
+SM_HE x purpose_3	0.000	0.000
+SM_HE x purpose_4	-0.000	0.000
+SM_HE x purpose_5	-0.000	0.000
+SM_HE x purpose_6	-0.000	0.000
+SM_HE x purpose_7	0.000	0.000
+SM_HE x purpose_8	-0.000	0.000
+SM_HE x who_1	-0.000	0.000
+SM_HE x who_2	-0.000	0.000
+SM_HE x who_3	0.000	0.000
+SM_HE x luggage_1	0.000	0.000
+SM_HE x luggage_2	-0.000	0.000
+SM_HE x income_1	-0.000	0.000
+SM_HE x income_2	-0.000	0.000
+SM_HE x income_3	-0.000	0.000
+SM_HE x income_4	0.000	0.000
+logt(SM_HE)_1	-0.000	0.000
+logt(SM_HE) x ga_1	0.000	0.000
+logt(SM_HE) x age_1	0.044	0.142
+logt(SM_HE) x age_2	0.485	0.142
+logt(SM_HE) x age_3	0.497	0.142
+logt(SM_HE) x age_4	0.284	0.142
+logt(SM_HE) x purpose_1	-0.000	0.000
+logt(SM_HE) x purpose_2	0.000	0.000
+logt(SM_HE) x purpose_3	0.000	0.000
+logt(SM_HE) x purpose_4	-0.000	0.000
+logt(SM_HE) x purpose_5	-0.000	0.000
+logt(SM_HE) x purpose_6	-0.000	0.000
+logt(SM_HE) x purpose_7	0.000	0.000
+logt(SM_HE) x purpose_8	0.000	0.000
+logt(SM_HE) x who_1	-0.000	0.000
+logt(SM_HE) x who_2	-0.000	0.000
+logt(SM_HE) x who_3	0.000	0.000
+logt(SM_HE) x luggage_1	-0.000	0.000
+logt(SM_HE) x luggage_2	-0.000	0.000
+logt(SM_HE) x income_1	-0.000	0.000
+logt(SM_HE) x income_2	-0.000	0.000
+logt(SM_HE) x income_3	-0.000	0.000
+logt(SM_HE) x income_4	0.000	0.000
+CAR_TT_1	-1.036	1.075
+CAR_TT x ga_1	0.000	0.000
+CAR_TT x age_1	0.000	0.000
+CAR_TT x age_2	-0.000	0.000
+CAR_TT x age_3	0.000	0.000
+CAR_TT x age_4	-0.000	0.000
+CAR_TT x purpose_1	0.000	0.000
+CAR_TT x purpose_2	-0.000	0.000
+CAR_TT x purpose_3	-0.000	0.000
+CAR_TT x purpose_4	0.000	0.000
+CAR_TT x purpose_5	-0.000	0.000
+CAR_TT x purpose_6	-0.000	0.000
+CAR_TT x purpose_7	-0.000	0.000
+CAR_TT x purpose_8	0.000	0.000
+CAR_TT x who_1	0.000	0.000
+CAR_TT x who_2	0.000	0.000
+CAR_TT x who_3	-0.000	0.000
+CAR_TT x luggage_1	0.000	0.000
+CAR_TT x luggage_2	-0.000	0.000
+CAR_TT x income_1	0.000	0.000
+CAR_TT x income_2	0.000	0.000
+CAR_TT x income_3	-0.000	0.000
+CAR_TT x income_4	0.000	0.000
+segt(CAR_TT,4)_1	-0.000	0.000
+segt(CAR_TT,4)_2	0.000	0.000
+segt(CAR_TT,4)_3	-0.000	0.000
+segt(CAR_TT,8)_1	-0.001	0.000
+segt(CAR_TT,8)_2	0.000	0.000
+segt(CAR_TT,8)_3	0.007	0.000
+segt(CAR_TT,8)_4	-0.000	0.000
+segt(CAR_TT,8)_5	-0.014	0.000
+segt(CAR_TT,8)_6	-0.001	0.000
+segt(CAR_TT,8)_7	0.011	0.000
+logt(CAR_TT)_1	-0.000	0.000
+logt(CAR_TT) x ga_1	-0.000	0.000
+logt(CAR_TT) x age_1	0.000	0.000
+logt(CAR_TT) x age_2	-0.000	0.000
+logt(CAR_TT) x age_3	0.000	0.000
+logt(CAR_TT) x age_4	-0.000	0.000
+logt(CAR_TT) x purpose_1	0.000	0.000
+logt(CAR_TT) x purpose_2	-0.000	0.000
+logt(CAR_TT) x purpose_3	-0.000	0.000
+logt(CAR_TT) x purpose_4	0.000	0.000
+logt(CAR_TT) x purpose_5	-0.000	0.000
+logt(CAR_TT) x purpose_6	-0.000	0.000
+logt(CAR_TT) x purpose_7	-0.000	0.000
+logt(CAR_TT) x purpose_8	0.000	0.000
+logt(CAR_TT) x who_1	0.000	0.000
+logt(CAR_TT) x who_2	0.000	0.000
+logt(CAR_TT) x who_3	0.000	0.000
+logt(CAR_TT) x luggage_1	0.000	0.000
+logt(CAR_TT) x luggage_2	-0.000	0.000
+logt(CAR_TT) x income_1	0.000	0.000
+logt(CAR_TT) x income_2	0.000	0.000
+logt(CAR_TT) x income_3	0.000	0.000
+logt(CAR_TT) x income_4	0.000	0.000
+boxt(CAR_TT)_1	-0.000	0.000
+boxt(CAR_TT) x ga_1	-0.000	0.000
+boxt(CAR_TT) x age_1	0.000	0.000
+boxt(CAR_TT) x age_2	-0.000	0.000
+boxt(CAR_TT) x age_3	0.000	0.000
+boxt(CAR_TT) x age_4	-0.000	0.000
+boxt(CAR_TT) x purpose_1	0.000	0.000
+boxt(CAR_TT) x purpose_2	-0.000	0.000
+boxt(CAR_TT) x purpose_3	-0.000	0.000
+boxt(CAR_TT) x purpose_4	0.000	0.000
+boxt(CAR_TT) x purpose_5	-0.000	0.000
+boxt(CAR_TT) x purpose_6	-0.000	0.000
+boxt(CAR_TT) x purpose_7	-0.000	0.000
+boxt(CAR_TT) x purpose_8	0.000	0.000
+boxt(CAR_TT) x who_1	0.000	0.000
+boxt(CAR_TT) x who_2	0.000	0.000
+boxt(CAR_TT) x who_3	0.000	0.000
+boxt(CAR_TT) x luggage_1	0.000	0.000
+boxt(CAR_TT) x luggage_2	-0.000	0.000
+boxt(CAR_TT) x income_1	0.000	0.000
+boxt(CAR_TT) x income_2	0.000	0.000
+boxt(CAR_TT) x income_3	0.000	0.000
+boxt(CAR_TT) x income_4	0.000	0.000
+CAR_CO_1	-0.313	0.099
+CAR_CO x ga_1	0.000	0.000
+CAR_CO x age_1	0.000	0.000
+CAR_CO x age_2	-0.000	0.000
+CAR_CO x age_3	-0.000	0.000
+CAR_CO x age_4	0.000	0.000
+CAR_CO x purpose_1	0.000	0.000
+CAR_CO x purpose_2	-0.000	0.000
+CAR_CO x purpose_3	-0.000	0.000
+CAR_CO x purpose_4	0.001	0.000
+CAR_CO x purpose_5	-0.000	0.000
+CAR_CO x purpose_6	-0.000	0.000
+CAR_CO x purpose_7	-0.000	0.000
+CAR_CO x purpose_8	0.000	0.000
+CAR_CO x who_1	0.009	0.000
+CAR_CO x who_2	0.020	0.000
+CAR_CO x who_3	-0.013	0.000
+CAR_CO x luggage_1	0.000	0.000
+CAR_CO x luggage_2	-0.000	0.000
+CAR_CO x income_1	0.018	0.004
+CAR_CO x income_2	-0.044	0.004
+CAR_CO x income_3	0.100	0.004
+CAR_CO x income_4	0.041	0.004
+segt(CAR_CO,4)_1	-0.027	0.001
+segt(CAR_CO,4)_2	0.016	0.001
+segt(CAR_CO,4)_3	0.005	0.001
+segt(CAR_CO,8)_1	0.000	0.000
+segt(CAR_CO,8)_2	-0.001	0.000
+segt(CAR_CO,8)_3	0.001	0.000
+segt(CAR_CO,8)_4	-0.001	0.000
+segt(CAR_CO,8)_5	0.000	0.000
+segt(CAR_CO,8)_6	0.000	0.000
+segt(CAR_CO,8)_7	0.002	0.000
+logt(CAR_CO)_1	-0.000	0.000
+logt(CAR_CO) x ga_1	0.000	0.000
+logt(CAR_CO) x age_1	0.000	0.000
+logt(CAR_CO) x age_2	-0.000	0.000
+logt(CAR_CO) x age_3	0.000	0.000
+logt(CAR_CO) x age_4	-0.000	0.000
+logt(CAR_CO) x purpose_1	0.000	0.000
+logt(CAR_CO) x purpose_2	-0.000	0.000
+logt(CAR_CO) x purpose_3	-0.000	0.000
+logt(CAR_CO) x purpose_4	0.000	0.000
+logt(CAR_CO) x purpose_5	-0.000	0.000
+logt(CAR_CO) x purpose_6	-0.000	0.000
+logt(CAR_CO) x purpose_7	-0.000	0.000
+logt(CAR_CO) x purpose_8	0.000	0.000
+logt(CAR_CO) x who_1	0.000	0.000
+logt(CAR_CO) x who_2	0.000	0.000
+logt(CAR_CO) x who_3	0.000	0.000
+logt(CAR_CO) x luggage_1	0.000	0.000
+logt(CAR_CO) x luggage_2	-0.000	0.000
+logt(CAR_CO) x income_1	-0.000	0.000
+logt(CAR_CO) x income_2	0.000	0.000
+logt(CAR_CO) x income_3	0.000	0.000
+logt(CAR_CO) x income_4	0.000	0.000
+boxt(CAR_CO)_1	-0.000	0.000
+boxt(CAR_CO) x ga_1	0.000	0.000
+boxt(CAR_CO) x age_1	0.000	0.000
+boxt(CAR_CO) x age_2	-0.000	0.000
+boxt(CAR_CO) x age_3	-0.000	0.000
+boxt(CAR_CO) x age_4	-0.000	0.000
+boxt(CAR_CO) x purpose_1	0.000	0.000
+boxt(CAR_CO) x purpose_2	-0.000	0.000
+boxt(CAR_CO) x purpose_3	-0.000	0.000
+boxt(CAR_CO) x purpose_4	0.000	0.000
+boxt(CAR_CO) x purpose_5	-0.000	0.000
+boxt(CAR_CO) x purpose_6	-0.000	0.000
+boxt(CAR_CO) x purpose_7	-0.000	0.000
+boxt(CAR_CO) x purpose_8	0.000	0.000
+boxt(CAR_CO) x who_1	0.000	0.000
+boxt(CAR_CO) x who_2	0.000	0.000
+boxt(CAR_CO) x who_3	-0.000	0.000
+boxt(CAR_CO) x luggage_1	0.000	0.000
+boxt(CAR_CO) x luggage_2	-0.000	0.000
+boxt(CAR_CO) x income_1	-0.000	0.000
+boxt(CAR_CO) x income_2	-0.000	0.000
+boxt(CAR_CO) x income_3	0.000	0.000
+boxt(CAR_CO) x income_4	0.000	0.000

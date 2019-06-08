@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Theta
+TRAIN_ASC x purpose_6	7.446	
+boxt(TRAIN_CO) x purpose_6	6.897	
+logt(TRAIN_TT) x income_2	6.068	
+logt(TRAIN_TT) x age_1	5.761	
+logt(TRAIN_TT) x age_4	4.744	
+boxt(TRAIN_CO) x who_3	4.540	
+boxt(TRAIN_CO) x purpose_1	4.385	
+logt(TRAIN_HE) x purpose_3	4.346	
+logt(TRAIN_CO) x purpose_4	4.248	
+TRAIN_ASC x age_4	4.224	
+TRAIN_TT x purpose_6	3.858	
+logt(TRAIN_HE) x who_2	3.836	
+boxt(TRAIN_TT) x age_3	3.788	
+boxt(TRAIN_TT) x income_4	3.642	
+boxt(TRAIN_TT) x age_2	3.474	
+boxt(TRAIN_CO) x purpose_5	3.179	
+logt(TRAIN_HE) x purpose_1	3.018	
+logt(TRAIN_TT) x who_2	2.984	
+logt(TRAIN_HE) x purpose_2	2.972	
+logt(TRAIN_HE) x purpose_4	2.884	
+
+Top 20 features for alternative SM:
+Feature		Theta
+logt(SM_TT) x who_1	7.150	
+boxt(SM_TT) x who_1	6.984	
+SM_ASC x luggage_1	6.786	
+SM_ASC x income_3	6.071	
+SM_ASC x age_4	4.934	
+boxt(SM_CO) x income_1	4.677	
+SM_ASC x purpose_3	4.058	
+SM_ASC x purpose_5	3.800	
+logt(SM_HE) x income_2	3.670	
+logt(SM_CO) x income_4	3.499	
+SM_CO x purpose_8	3.489	
+boxt(SM_CO) x who_3	3.393	
+SM_ASC x income_2	3.184	
+logt(SM_CO) x luggage_2	2.959	
+boxt(SM_CO) x who_2	2.940	
+logt(SM_CO) x income_2	2.878	
+logt(SM_CO) x luggage_1	2.712	
+SM_HE x purpose_3	2.197	
+logt(SM_HE) x income_1	2.174	
+SM_TT x income_1	2.161	
+
+Top 20 features for alternative CAR:
+Feature		Theta
+boxt(CAR_CO) x income_4	6.848	
+boxt(CAR_CO) x who_1	6.812	
+logt(CAR_TT) x who_3	6.483	
+boxt(CAR_CO) x purpose_6	6.005	
+boxt(CAR_TT) x who_2	5.586	
+boxt(CAR_CO) x age_2	5.427	
+logt(CAR_CO) x who_2	4.997	
+boxt(CAR_CO) x luggage_2	4.955	
+logt(CAR_TT) x income_3	4.554	
+boxt(CAR_TT) x age_1	4.533	
+logt(CAR_TT) x purpose_3	4.441	
+boxt(CAR_TT) x purpose_2	4.349	
+boxt(CAR_CO) x who_3	4.314	
+logt(CAR_CO) x purpose_5	4.263	
+boxt(CAR_CO)_1	3.823	
+boxt(CAR_TT) x luggage_2	3.595	
+CAR_TT x ga_1	3.564	
+logt(CAR_TT) x purpose_5	3.367	
+boxt(CAR_CO) x age_3	2.991	
+logt(CAR_CO) x income_3	2.966	

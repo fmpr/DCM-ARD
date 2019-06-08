@@ -1,0 +1,2 @@
+Train accuracy: 0.649
+Test accuracy: NaN

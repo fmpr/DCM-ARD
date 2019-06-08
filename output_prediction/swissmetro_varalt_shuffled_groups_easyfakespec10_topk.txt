@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.829	3.348
+logt(TRAIN_TT)_1	-1.122	1.259
+TRAIN_ASC x age_1	0.307	0.173
+TRAIN_ASC x age_2	-0.401	0.173
+TRAIN_ASC x age_3	-0.613	0.173
+TRAIN_ASC x age_4	-0.231	0.173
+TRAIN_CO x ga_1	0.000	0.000
+TRAIN_TT x purpose_1	-0.000	0.000
+TRAIN_TT x purpose_2	-0.000	0.000
+TRAIN_TT x purpose_3	0.000	0.000
+TRAIN_TT x purpose_4	0.000	0.000
+TRAIN_TT x purpose_5	-0.000	0.000
+TRAIN_TT x purpose_6	0.000	0.000
+TRAIN_TT x purpose_7	-0.000	0.000
+TRAIN_TT x purpose_8	-0.000	0.000
+TRAIN_HE x purpose_1	-0.000	0.000
+TRAIN_HE x purpose_2	-0.000	0.000
+TRAIN_HE x purpose_3	0.000	0.000
+TRAIN_HE x purpose_4	0.000	0.000
+TRAIN_HE x purpose_5	-0.000	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+logt(SM_TT)_1	-0.751	0.565
+SM_CO_1	-0.462	0.214
+SM_ASC x age_1	0.423	0.179
+SM_ASC x age_2	0.469	0.179
+SM_ASC x age_3	0.471	0.179
+SM_ASC x age_4	0.303	0.179
+SM_CO x ga_1	-0.340	0.116
+SM_HE x purpose_1	0.000	0.000
+SM_HE x purpose_2	-0.000	0.000
+SM_HE x purpose_3	-0.000	0.000
+SM_HE x purpose_4	0.000	0.000
+SM_HE x purpose_5	0.000	0.000
+SM_HE x purpose_6	-0.000	0.000
+SM_HE x purpose_7	0.000	0.000
+SM_HE x purpose_8	-0.000	0.000
+SM_CO x purpose_1	-0.000	0.000
+SM_CO x purpose_2	0.000	0.000
+SM_CO x purpose_3	-0.000	0.000
+SM_CO x purpose_4	-0.000	0.000
+SM_CO x purpose_5	0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_CO_1	-2.844	8.087
+CAR_CO x ga_1	2.507	6.284
+logt(CAR_TT)_1	-1.380	1.908
+CAR_TT_1	-0.323	0.106
+logt(CAR_CO) x ga_1	0.000	0.000
+logt(CAR_TT) x ga_1	-0.000	0.000
+CAR_TT x ga_1	-0.000	0.000
+CAR_CO x purpose_1	-0.000	0.000
+CAR_CO x purpose_2	0.000	0.000
+CAR_CO x purpose_3	0.000	0.000
+CAR_CO x purpose_4	-0.000	0.000
+CAR_CO x purpose_5	-0.000	0.000
+CAR_CO x purpose_6	0.000	0.000
+CAR_CO x purpose_7	-0.000	0.000
+CAR_CO x purpose_8	0.000	0.000
+logt(CAR_CO)_1	0.000	0.000
+CAR_CO x age_1	-0.000	0.000
+CAR_CO x age_2	0.000	0.000
+CAR_CO x age_3	-0.000	0.000
+CAR_CO x age_4	-0.000	0.000

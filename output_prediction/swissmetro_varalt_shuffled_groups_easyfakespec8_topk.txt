@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.453	2.112
+logt(TRAIN_TT)_1	-0.917	0.843
+TRAIN_ASC x age_1	-0.047	0.386
+TRAIN_ASC x age_2	-0.693	0.386
+TRAIN_ASC x age_3	-0.936	0.386
+TRAIN_ASC x age_4	-0.422	0.386
+TRAIN_CO x ga_1	-0.344	0.120
+TRAIN_CO_1	0.269	0.073
+TRAIN_TT x purpose_1	-0.000	0.000
+TRAIN_TT x purpose_2	-0.000	0.000
+TRAIN_TT x purpose_3	0.000	0.000
+TRAIN_TT x purpose_4	0.000	0.000
+TRAIN_TT x purpose_5	-0.000	0.000
+TRAIN_TT x purpose_6	0.000	0.000
+TRAIN_TT x purpose_7	-0.000	0.000
+TRAIN_TT x purpose_8	-0.000	0.000
+TRAIN_HE x purpose_1	0.000	0.000
+TRAIN_HE x purpose_2	-0.000	0.000
+TRAIN_HE x purpose_3	-0.000	0.000
+TRAIN_HE x purpose_4	0.000	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+logt(SM_TT)_1	-0.729	0.533
+SM_ASC_1	0.455	0.207
+SM_CO x ga_1	0.000	0.000
+SM_TT x age_1	-0.000	0.000
+SM_TT x age_2	-0.000	0.000
+SM_TT x age_3	0.000	0.000
+SM_TT x age_4	0.000	0.000
+SM_HE x age_1	-0.000	0.000
+SM_HE x age_2	-0.000	0.000
+SM_HE x age_3	-0.000	0.000
+SM_HE x age_4	0.000	0.000
+logt(SM_HE) x purpose_1	-0.000	0.000
+logt(SM_HE) x purpose_2	0.000	0.000
+logt(SM_HE) x purpose_3	-0.000	0.000
+logt(SM_HE) x purpose_4	-0.000	0.000
+logt(SM_HE) x purpose_5	0.000	0.000
+logt(SM_HE) x purpose_6	-0.000	0.000
+logt(SM_HE) x purpose_7	-0.000	0.000
+logt(SM_HE) x purpose_8	0.000	0.000
+SM_CO_1	0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_TT_1	-0.932	0.870
+CAR_CO x purpose_1	-0.407	0.115
+CAR_CO x purpose_2	-0.196	0.115
+CAR_CO x purpose_3	-0.203	0.115
+CAR_CO x purpose_4	0.016	0.115
+CAR_CO x purpose_5	-0.696	0.115
+CAR_CO x purpose_6	-0.178	0.115
+CAR_CO x purpose_7	-0.123	0.115
+CAR_CO x purpose_8	-0.314	0.115
+CAR_CO x age_1	-0.000	0.000
+CAR_CO x age_2	0.001	0.000
+CAR_CO x age_3	0.000	0.000
+CAR_CO x age_4	-0.001	0.000
+CAR_TT x age_1	-0.000	0.000
+CAR_TT x age_2	0.000	0.000
+CAR_TT x age_3	0.000	0.000
+CAR_TT x age_4	-0.000	0.000
+logt(CAR_CO) x age_1	0.000	0.000
+logt(CAR_CO) x age_2	0.000	0.000
+logt(CAR_CO) x age_3	0.000	0.000

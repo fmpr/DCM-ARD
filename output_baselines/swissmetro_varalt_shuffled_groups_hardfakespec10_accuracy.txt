@@ -1,0 +1,5 @@
+Log-likelihood full dataset: -7984.196
+Log-likelihood train: -5505.654
+Log-likelihood test: -2678.979
+Train accuracy: 0.663
+Test accuracy: 0.623

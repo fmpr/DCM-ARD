@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.772	3.142
+logt(TRAIN_TT)_1	-1.073	1.153
+TRAIN_CO_1	0.629	0.397
+logt(TRAIN_TT) x age_1	0.004	0.004
+logt(TRAIN_TT) x age_2	0.017	0.004
+logt(TRAIN_TT) x age_3	-0.089	0.004
+logt(TRAIN_TT) x age_4	0.055	0.004
+TRAIN_CO x ga_1	0.007	0.000
+TRAIN_TT x purpose_1	-0.000	0.000
+TRAIN_TT x purpose_2	0.000	0.000
+TRAIN_TT x purpose_3	-0.000	0.000
+TRAIN_TT x purpose_4	0.000	0.000
+TRAIN_TT x purpose_5	-0.000	0.000
+TRAIN_TT x purpose_6	0.000	0.000
+TRAIN_TT x purpose_7	-0.000	0.000
+TRAIN_TT x purpose_8	-0.000	0.000
+TRAIN_ASC x purpose_1	-0.000	0.000
+TRAIN_ASC x purpose_2	0.000	0.000
+TRAIN_ASC x purpose_3	-0.000	0.000
+TRAIN_ASC x purpose_4	0.000	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+logt(SM_TT)_1	-0.754	0.569
+SM_CO_1	-0.574	0.330
+SM_CO x age_1	0.089	0.213
+SM_CO x age_2	0.584	0.213
+SM_CO x age_3	0.590	0.213
+SM_CO x age_4	0.392	0.213
+logt(SM_HE) x purpose_1	0.000	0.000
+logt(SM_HE) x purpose_2	-0.000	0.000
+logt(SM_HE) x purpose_3	-0.000	0.000
+logt(SM_HE) x purpose_4	-0.000	0.000
+logt(SM_HE) x purpose_5	0.000	0.000
+logt(SM_HE) x purpose_6	-0.000	0.000
+logt(SM_HE) x purpose_7	-0.000	0.000
+logt(SM_HE) x purpose_8	0.000	0.000
+SM_TT x purpose_1	0.000	0.000
+SM_TT x purpose_2	-0.000	0.000
+SM_TT x purpose_3	-0.000	0.000
+SM_TT x purpose_4	-0.000	0.000
+SM_TT x purpose_5	0.000	0.000
+SM_TT x purpose_6	-0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+logt(CAR_TT)_1	-1.325	1.758
+CAR_TT_1	-0.318	0.103
+CAR_CO x ga_1	-0.196	0.039
+CAR_CO x age_1	-0.095	0.007
+CAR_CO x age_2	-0.071	0.007
+CAR_CO x age_3	-0.087	0.007
+CAR_CO x age_4	-0.054	0.007
+logt(CAR_CO)_1	-0.000	0.000
+CAR_CO x purpose_1	-0.000	0.000
+CAR_CO x purpose_2	0.000	0.000
+CAR_CO x purpose_3	0.000	0.000
+CAR_CO x purpose_4	-0.000	0.000
+CAR_CO x purpose_5	0.000	0.000
+CAR_CO x purpose_6	0.000	0.000
+CAR_CO x purpose_7	-0.000	0.000
+CAR_CO x purpose_8	0.000	0.000
+logt(CAR_TT) x ga_1	-0.000	0.000
+CAR_CO_1	-0.000	0.000
+logt(CAR_CO) x ga_1	-0.000	0.000
+CAR_TT x ga_1	-0.000	0.000

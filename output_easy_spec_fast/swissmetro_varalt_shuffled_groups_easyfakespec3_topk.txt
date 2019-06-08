@@ -1,0 +1,69 @@
+
+Top 20 features for alternative TRAIN:
+Feature		Mu	Lambda
+TRAIN_ASC_1	-1.592	2.536
+TRAIN_CO x ga_1	-0.795	0.633
+TRAIN_TT x age_1	-0.063	0.510
+TRAIN_TT x age_2	-0.710	0.510
+TRAIN_TT x age_3	-1.026	0.510
+TRAIN_TT x age_4	-0.690	0.510
+TRAIN_TT_1	-0.547	0.300
+TRAIN_CO_1	0.449	0.202
+TRAIN_HE_1	-0.235	0.056
+TRAIN_HE x purpose_1	-0.001	0.000
+TRAIN_HE x purpose_2	-0.001	0.000
+TRAIN_HE x purpose_3	0.001	0.000
+TRAIN_HE x purpose_4	0.001	0.000
+TRAIN_HE x purpose_5	-0.001	0.000
+TRAIN_HE x purpose_6	-0.000	0.000
+TRAIN_HE x purpose_7	-0.000	0.000
+TRAIN_HE x purpose_8	-0.000	0.000
+TRAIN_ASC x purpose_1	-0.000	0.000
+TRAIN_ASC x purpose_2	-0.000	0.000
+TRAIN_ASC x purpose_3	0.000	0.000
+
+Top 20 features for alternative SM:
+Feature		Mu	Lambda
+SM_TT_1	-0.722	0.522
+SM_CO x ga_1	-0.652	0.426
+SM_ASC_1	0.364	0.133
+SM_CO_1	0.150	0.023
+logt(SM_HE)_1	-0.066	0.005
+SM_HE x age_1	-0.000	0.000
+SM_HE x age_2	0.000	0.000
+SM_HE x age_3	-0.000	0.000
+SM_HE x age_4	0.000	0.000
+logt(SM_CO) x purpose_1	0.000	0.000
+logt(SM_CO) x purpose_2	0.000	0.000
+logt(SM_CO) x purpose_3	-0.000	0.000
+logt(SM_CO) x purpose_4	0.000	0.000
+logt(SM_CO) x purpose_5	0.000	0.000
+logt(SM_CO) x purpose_6	0.000	0.000
+logt(SM_CO) x purpose_7	-0.000	0.000
+logt(SM_CO) x purpose_8	-0.000	0.000
+SM_CO x age_1	-0.000	0.000
+SM_CO x age_2	0.000	0.000
+SM_CO x age_3	-0.000	0.000
+
+Top 20 features for alternative CAR:
+Feature		Mu	Lambda
+CAR_TT_1	-0.691	0.478
+CAR_CO_1	-0.345	0.120
+CAR_TT x age_1	-0.080	0.061
+CAR_TT x age_2	-0.306	0.061
+CAR_TT x age_3	-0.322	0.061
+CAR_TT x age_4	-0.189	0.061
+logt(CAR_TT) x ga_1	-0.000	0.000
+logt(CAR_CO) x purpose_1	0.000	0.000
+logt(CAR_CO) x purpose_2	-0.000	0.000
+logt(CAR_CO) x purpose_3	0.000	0.000
+logt(CAR_CO) x purpose_4	-0.000	0.000
+logt(CAR_CO) x purpose_5	0.000	0.000
+logt(CAR_CO) x purpose_6	0.000	0.000
+logt(CAR_CO) x purpose_7	0.000	0.000
+logt(CAR_CO) x purpose_8	0.000	0.000
+logt(CAR_TT) x purpose_1	0.000	0.000
+logt(CAR_TT) x purpose_2	-0.000	0.000
+logt(CAR_TT) x purpose_3	0.000	0.000
+logt(CAR_TT) x purpose_4	-0.000	0.000
+logt(CAR_TT) x purpose_5	0.000	0.000
